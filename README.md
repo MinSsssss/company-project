@@ -33,4 +33,4 @@ __굵은글자__
 **이미지**
 ![메세지](경로)
 드래그해서 넣어도됨
-![01_완성](https://user-images.githubusercontent.com/110882147/206955269-7232c20b-4691-400a-9054-6a90187c8e37.jpg)
+![01_완성](https://user-images.githubusercontent.com/110882147/206955494-c2b8496e-fef6-4cd0-bf9c-a73344c34b61.jpg)
